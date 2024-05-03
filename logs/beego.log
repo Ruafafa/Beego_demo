@@ -1,0 +1,16 @@
+2024/05/03 23:27:17.007  [I] [server.go:281]  http server Running on http://:8080
+2024/05/03 23:27:17.007  [I] [admin.go:92]  Admin server Running on :8088
+2024/05/03 23:27:17.007  [I] [server.go:281]  http server Running on http://:8088
+2024/05/03 23:29:43.874  [I] [server.go:281]  http server Running on http://:8080
+2024/05/03 23:29:43.874  [I] [admin.go:92]  Admin server Running on :8088
+2024/05/03 23:29:43.874  [I] [server.go:281]  http server Running on http://:8088
+2024/05/03 23:38:42.671  [I] [server.go:281]  http server Running on http://:8080
+2024/05/03 23:38:42.671  [I] [admin.go:92]  Admin server Running on :8088
+2024/05/03 23:38:42.671  [I] [server.go:281]  http server Running on http://:8088
+2024/05/03 23:38:48.405  [I] [server.go:281]  http server Running on http://:8080
+2024/05/03 23:38:48.405  [I] [admin.go:92]  Admin server Running on :8088
+2024/05/03 23:38:48.406  [I] [server.go:281]  http server Running on http://:8088
+2024/05/03 23:39:18.045  [I] [server.go:281]  http server Running on http://:8080
+2024/05/03 23:39:18.045  [I] [admin.go:92]  Admin server Running on :8088
+2024/05/03 23:39:18.046  [I] [server.go:281]  http server Running on http://:8088
+2024/05/03 23:39:20.570  [I] [fileUploadController.go:55]  文件上传成功:  https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/Snipaste.jpg
